@@ -128,7 +128,7 @@ export default function App() {
         </div>
         {/* footer */}
         <div className="text-center text-gray-500 text-sm mb-2 roboto-mono-footer">
-            Potcho can be stupid. She is just a cute cat after all! 🐾
+            Potcho can be wrong. She is just a cute cat after all! 🐾
         </div>
         
     </div>
